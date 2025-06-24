@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Avinash!
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&    <h3>💼 Portfo    <h3>🚀 Secret Project</h3>io Website</h3>idth=600&height=80&lines=Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Digital+Solutions+for+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Digital+Solutions+for+Tomorrow" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -42,14 +42,14 @@
 
 <div align="center">
   <a href="https://developers.google.com/profile/u/hey-avi">
-    <img src="https://img.shields.io/badge/🌟_Verified_Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a73e8" alt="Google Developer Profile" />
+    <img src="https://img.shields.io/badge/Verified%20Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a73e8" alt="Google Developer Profile" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google-Recognized_Developer-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Recognized">
-  <img src="https://img.shields.io/badge/Profile-Verified-1a73e8?style=flat-square&logo=verified&logoColor=white" alt="Verified Profile">
-  <img src="https://img.shields.io/badge/Expertise-Showcased-EA4335?style=flat-square&logo=google-scholar&logoColor=white" alt="Expertise">
+  <img src="https://img.shields.io/badge/Google-Recognized%20Developer-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Recognized">
+  <img src="https://img.shields.io/badge/Profile-Verified-1a73e8?style=flat-square&logo=google&logoColor=white" alt="Verified Profile">
+  <img src="https://img.shields.io/badge/Expertise-Showcased-EA4335?style=flat-square&logo=google&logoColor=white" alt="Expertise">
 </p>
 
 <p align="center">
