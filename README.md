@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Avinash!
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Digital+Solutions+for+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Digital+Solutions+for+Tomorrow" alt="Typing SVG" />
 </h2>
 
 <p align="center">
